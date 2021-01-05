@@ -14,11 +14,10 @@ Apart from creating events and managing a user profile, the web application also
 * Last Modification Date: 2021 01 05
 
 ## Authors
-
+* Jigar Makwana  (Jigar.Makwana@dal.ca)
 * RajKumar Reddy Gangi(rj675423@dal.ca) 
 * Smit Panchal (sm414905@dal.ca) 
 * Breej Vania (breej.vania@dal.ca)
-* Jigar Makwana  (Jigar Makwana)
 * Nishant Amoli (nishant.amoli@dal.ca)
 * Sagar Moghe (sg286595@dal.ca)
 
