@@ -8,7 +8,7 @@ The web application also provides the feature of user management. After the user
 
 Apart from creating events and managing a user profile, the web application also maintains a log of all the rides that a user had in history. Also, after a user has requested to share a ride or has accepted any request, they will be notified using the notification feature in the web application.
 
-* ### Live Project URL: https://csci5709webgroup20.herokuapp.com
+* ### Live Demo URL: https://csci5709webgroup20.herokuapp.com
 
 * Date Created: 2020-07-19
 * Last Modification Date: 2021-01-05
