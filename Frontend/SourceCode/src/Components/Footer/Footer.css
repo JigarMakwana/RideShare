@@ -1,0 +1,11 @@
+/* @Author - Jigar Makwana B00842568 */
+.footer-info {
+  color: dodgerblue;
+}
+.footer-info:hover {
+  color: white;
+}
+
+.footer {
+  background-color: #002e5b;
+}
