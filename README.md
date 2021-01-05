@@ -10,8 +10,8 @@ Apart from creating events and managing a user profile, the web application also
 
 * ### Live Project URL: https://csci5709webgroup20.herokuapp.com
 
-* Date Created: 2020 07 19
-* Last Modification Date: 2021 01 05
+* Date Created: 2020-07-19
+* Last Modification Date: 2021-01-05
 
 ## Authors
 * Jigar Makwana  (Jigar.Makwana@dal.ca)
