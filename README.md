@@ -7,7 +7,6 @@ Travelers can create an account and after signing in, they can create an event t
 The web application also provides the feature of user management. After the user creates an account, they will have a profile page in which they can provide their general information such as name, email address, phone number, profession, bio and a profile picture. The user can update their profile any time they want. In case they forget their password, the application provides a feature using which the user can reset it using their registered email address. The application also provides a user the freedom to delete their account anytime they want.
 
 Apart from creating events and managing a user profile, the web application also maintains a log of all the rides that a user had in history. Also, after a user has requested to share a ride or has accepted any request, they will be notified using the notification feature in the web application.
-By developing RideShare, our objective is to help the users in reducing the cost of their travels and make their journey less stressful and worth remembering. We also want to contribute towards the welfare of our environment by developing an application that promotes ride sharing which can lead to a smaller number of vehicles on the road and thus less air pollution and traffic congestion.
 
 * ### Live Project URL: https://csci5709webgroup20.herokuapp.com
 
