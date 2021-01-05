@@ -28,9 +28,9 @@ Apart from creating events and managing a user profile, the web application also
 * [Axios](https://www.npmjs.com/package/axios) - Http interface to work with XMLHttpRequest.
 * [Bootstrap](https://getbootstrap.com/) - An HTML, CSS and JS framework to build responsive web pages.
 * [React Bootstrap](https://www.npmjs.com/package/react-bootstrap) - A frontend framework for React for building responsive web pages.
-* [js-cookie] https://www.npmjs.com/package/js-cookie - A simple, lightweight JavaScript API for handling cookies
-* [react-responsive] https://www.npmjs.com/package/react-responsive - The best supported, easiest to use react media query module.
-* [Firebase] https://firebase.google.com/ - Firebase gives functionality like analytics, databases and messaging.
+* [js-cookie] (https://www.npmjs.com/package/js-cookie) - A simple, lightweight JavaScript API for handling cookies
+* [react-responsive] (https://www.npmjs.com/package/react-responsive) - The best supported, easiest to use react media query module.
+* [Firebase] (https://firebase.google.com/) - Firebase gives functionality like analytics, databases and messaging.
 
 ## Software Installation
 To build this web application, Node.js was used along with Express module and React. Following are the steps for the installation of these modules:
@@ -50,8 +50,7 @@ Step 2) Now express module can be installed under the npm-module directory using
 ### React app setup
 You may follow the below steps if you want to run this web application locally.
 
-Step 1) Clone the below repository to get the application code on local machine.
-		***https://github.com/JigarMakwana/CSCI5709_Tutorials_Group20.git***
+Step 1) Clone the the repository to get the application code on local machine.
 
 #### Cofiguring bootstrap
 Step 2) Run the following command to get the React-bootstrap
